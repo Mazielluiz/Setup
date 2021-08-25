@@ -1,6 +1,11 @@
-# Livro de receitas :man_cook:
+# Parte Elétrica :electric_plug:
 
-Olá! Bem vindo ao meu livro de receitas :wave: 
+Sábia como regular sua Guitarra :guitar: 
 
-- Strogonoff de frango
-- Carne
+- Oitavas
+
+- Tensor
+
+- Altura dos Captadores
+
+  
